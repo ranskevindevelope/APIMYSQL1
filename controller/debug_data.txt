@@ -1,0 +1,4 @@
+(object) array(
+   'usuario' => 'apiuser1',
+   'contraseña' => '123456',
+)
